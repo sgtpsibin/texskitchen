@@ -1,0 +1,19 @@
+{
+  "name": "texskitchen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "NGUYEN LE QUANG ANH",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^7.22.0",
+    "next": "^9.5.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
